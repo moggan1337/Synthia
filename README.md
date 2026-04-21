@@ -1,6 +1,26 @@
 # Synthia - Synthetic Biology Simulator
 
+[![CI](https://github.com/moggan1337/Synthia/actions/workflows/ci.yml/badge.svg)](https://github.com/moggan1337/Synthia/actions/workflows/ci.yml)
+
 **Synthia** is a comprehensive computational biology framework for simulating synthetic biology systems. It provides tools for modeling DNA/RNA sequences, protein structures, gene regulatory networks, metabolic pathways, cell signaling, and evolutionary dynamics.
+
+## 🎬 Demo
+![Synthia Demo](demo.gif)
+
+*Synthetic biology simulation framework*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Cell Simulation | ![cell](screenshots/cell-sim.png) |
+| Gene Network | ![gene](screenshots/gene-network.png) |
+| Protein View | ![protein](screenshots/protein.png) |
+
+## Visual Description
+Cell simulation shows organism growth with division. Gene network displays regulatory interactions with expression levels. Protein view renders 3D structures with active sites.
+
+---
+
 
 ## Table of Contents
 
